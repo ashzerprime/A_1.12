@@ -6,9 +6,9 @@ document.getElementById("monFormulaire").addEventListener("submit", function(eve
     // Affiche la page de remerciement
     document.body.innerHTML = `
         <div style="text-align:center; margin-top:100px;">
-            <h1>Merci d'avoir participé</h1>
+            <h1>thx</h1>
             <button id="finExperience">
-                Terminer l'expérience
+                end exp
             </button>
         </div>
     `;
